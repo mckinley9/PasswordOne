@@ -33,10 +33,6 @@ button {
     cursor: pointer;
 }
 
-button:hover {
-    background-color: #800000;
-}
-
 #message {
     color: red;
     margin-top: 10px;
